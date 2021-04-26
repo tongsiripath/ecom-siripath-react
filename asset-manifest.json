@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ecom-siripath-react/static/css/main.26f9e6b0.chunk.css",
-    "main.js": "/ecom-siripath-react/static/js/main.ab728738.chunk.js",
-    "main.js.map": "/ecom-siripath-react/static/js/main.ab728738.chunk.js.map",
+    "main.js": "/ecom-siripath-react/static/js/main.f78904c8.chunk.js",
+    "main.js.map": "/ecom-siripath-react/static/js/main.f78904c8.chunk.js.map",
     "runtime-main.js": "/ecom-siripath-react/static/js/runtime-main.c731085c.js",
     "runtime-main.js.map": "/ecom-siripath-react/static/js/runtime-main.c731085c.js.map",
     "static/js/2.2dc39ebc.chunk.js": "/ecom-siripath-react/static/js/2.2dc39ebc.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.c731085c.js",
     "static/js/2.2dc39ebc.chunk.js",
     "static/css/main.26f9e6b0.chunk.css",
-    "static/js/main.ab728738.chunk.js"
+    "static/js/main.f78904c8.chunk.js"
   ]
 }
