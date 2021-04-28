@@ -1,2 +1,0 @@
-(this["webpackJsonpecom-siripath-react"]=this["webpackJsonpecom-siripath-react"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(1),r=c.n(n),i=c(3),s=c.n(i),a=(c(8),c(0));var o=function(){return Object(a.jsx)("div",{className:"App",children:Object(a.jsx)("h2",{children:"React Dev 061-7191375"})})};s.a.render(Object(a.jsx)(r.a.StrictMode,{children:Object(a.jsx)(o,{})}),document.getElementById("root"))},8:function(e,t,c){}},[[10,1,2]]]);
-//# sourceMappingURL=main.f78904c8.chunk.js.map

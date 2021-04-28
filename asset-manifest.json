@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/ecom-siripath-react/static/css/main.26f9e6b0.chunk.css",
-    "main.js": "/ecom-siripath-react/static/js/main.f78904c8.chunk.js",
-    "main.js.map": "/ecom-siripath-react/static/js/main.f78904c8.chunk.js.map",
+    "main.css": "/ecom-siripath-react/static/css/main.01a0a21c.chunk.css",
+    "main.js": "/ecom-siripath-react/static/js/main.998603d4.chunk.js",
+    "main.js.map": "/ecom-siripath-react/static/js/main.998603d4.chunk.js.map",
     "runtime-main.js": "/ecom-siripath-react/static/js/runtime-main.c731085c.js",
     "runtime-main.js.map": "/ecom-siripath-react/static/js/runtime-main.c731085c.js.map",
-    "static/js/2.2dc39ebc.chunk.js": "/ecom-siripath-react/static/js/2.2dc39ebc.chunk.js",
-    "static/js/2.2dc39ebc.chunk.js.map": "/ecom-siripath-react/static/js/2.2dc39ebc.chunk.js.map",
+    "static/js/2.c564d032.chunk.js": "/ecom-siripath-react/static/js/2.c564d032.chunk.js",
+    "static/js/2.c564d032.chunk.js.map": "/ecom-siripath-react/static/js/2.c564d032.chunk.js.map",
     "index.html": "/ecom-siripath-react/index.html",
-    "static/css/main.26f9e6b0.chunk.css.map": "/ecom-siripath-react/static/css/main.26f9e6b0.chunk.css.map",
-    "static/js/2.2dc39ebc.chunk.js.LICENSE.txt": "/ecom-siripath-react/static/js/2.2dc39ebc.chunk.js.LICENSE.txt"
+    "static/css/main.01a0a21c.chunk.css.map": "/ecom-siripath-react/static/css/main.01a0a21c.chunk.css.map",
+    "static/js/2.c564d032.chunk.js.LICENSE.txt": "/ecom-siripath-react/static/js/2.c564d032.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c731085c.js",
-    "static/js/2.2dc39ebc.chunk.js",
-    "static/css/main.26f9e6b0.chunk.css",
-    "static/js/main.f78904c8.chunk.js"
+    "static/js/2.c564d032.chunk.js",
+    "static/css/main.01a0a21c.chunk.css",
+    "static/js/main.998603d4.chunk.js"
   ]
 }
