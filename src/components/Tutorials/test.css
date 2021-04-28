@@ -1,0 +1,15 @@
+  .navEnable {
+    position: relative;
+    font-size: 55px;
+    color: darkgray;
+    background: rgb(196, 192, 192);
+    width: 550px;
+  }
+
+  .navDisable {
+    position: relative;
+    font-size: 55px;
+    color: darkgray;
+    background: green;
+    width: 0px;
+  }

@@ -1,0 +1,8 @@
+.menuActive {
+    width: 492px;    
+}
+
+.menuDisable {
+    width: 0px;
+    overflow: hidden;
+}
